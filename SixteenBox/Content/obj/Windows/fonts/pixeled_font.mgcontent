@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Rafael/documents/visual studio 2015/Projects/SixteenBox/SixteenBox/Content/fonts/pixeled_font.spritefont</SourceFile>
+  <SourceTime>2017-03-10T14:05:47.051335-03:00</SourceTime>
+  <DestFile>C:/Users/Rafael/documents/visual studio 2015/Projects/SixteenBox/SixteenBox/Content/bin/Windows/fonts/pixeled_font.xnb</DestFile>
+  <DestTime>2017-03-12T23:09:01.088646-03:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2016-03-30T03:36:08-03:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2016-03-30T03:36:08-03:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

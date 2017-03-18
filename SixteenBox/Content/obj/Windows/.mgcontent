@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Rafael/documents/visual studio 2015/Projects/SixteenBox/SixteenBox/Content/fonts/pixeled_font.spritefont</File>
+    <File>C:/Users/Rafael/documents/visual studio 2015/Projects/SixteenBox/SixteenBox/Content/game/boxes.png</File>
+    <File>C:/Users/Rafael/documents/visual studio 2015/Projects/SixteenBox/SixteenBox/Content/ui/loginBg.png</File>
+    <File>C:/Users/Rafael/documents/visual studio 2015/Projects/SixteenBox/SixteenBox/Content/ui/loginContentBg.png</File>
+    <File>C:/Users/Rafael/documents/visual studio 2015/Projects/SixteenBox/SixteenBox/Content/fonts/goldfish_font.spritefont</File>
+    <File>C:/Users/Rafael/documents/visual studio 2015/Projects/SixteenBox/SixteenBox/Content/ui/btn_login.png</File>
+    <File>C:/Users/Rafael/documents/visual studio 2015/Projects/SixteenBox/SixteenBox/Content/ui/input_login.png</File>
+    <File>C:/Users/Rafael/documents/visual studio 2015/Projects/SixteenBox/SixteenBox/Content/ui/connBg.png</File>
+    <File>C:/Users/Rafael/documents/visual studio 2015/Projects/SixteenBox/SixteenBox/Content/ui/connContentBg.png</File>
+    <File>C:/Users/Rafael/documents/visual studio 2015/Projects/SixteenBox/SixteenBox/Content/ui/popups.png</File>
+    <File>C:/Users/Rafael/documents/visual studio 2015/Projects/SixteenBox/SixteenBox/Content/ui/lobbyChatBg.png</File>
+  </SourceFiles>
+</SourceFileCollection>
