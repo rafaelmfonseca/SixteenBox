@@ -3,8 +3,7 @@ using Microsoft.Xna.Framework.Graphics;
 
 namespace SixteenBox
 {
-    // Taken from http://www.dylanwilson.net/implementing-a-2d-camera-in-monogame
-    public class Camera2D // This class should be complety redone..
+    public class Camera2D
     {
         private readonly Viewport _viewport;
 
